@@ -42,5 +42,6 @@
   {"number":41,"president":"George H. W. Bush","birth_year":1924,"death_year":null,"took_office":"1989-01-20","left_office":"1993-01-20","party":"Republican"},
   {"number":42,"president":"Bill Clinton","birth_year":1946,"death_year":null,"took_office":"1993-01-20","left_office":"2001-01-20","party":"Democratic"},
   {"number":43,"president":"George W. Bush","birth_year":1946,"death_year":null,"took_office":"2001-01-20","left_office":"2009-01-20","party":"Republican"},
-  {"number":44,"president":"Barack Obama","birth_year":1961,"death_year":null,"took_office":"2009-01-20","left_office":null,"party":"Democratic"}
+  {"number":44,"president":"Barack Obama","birth_year":1961,"death_year":null,"took_office":"2009-01-20","left_office":"2017-01-20","party":"Democratic"},
+  {"number":45,"president":"Donald J. Trump","birth_year":1946,"death_year":null,"took_office":"2017-01-20","left_office":null,"party":"Republican"}
 ]

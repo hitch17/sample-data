@@ -39,7 +39,7 @@
   {"number":38,"president":"Gerald Ford","birth_year":1913,"death_year":2006,"took_office":"1974-08-09","left_office":"1977-01-20","party":"Republican"},
   {"number":39,"president":"Jimmy Carter","birth_year":1924,"death_year":null,"took_office":"1977-01-20","left_office":"1981-01-20","party":"Democratic"},
   {"number":40,"president":"Ronald Reagan","birth_year":1911,"death_year":2004,"took_office":"1981-01-20","left_office":"1989-01-20","party":"Republican"},
-  {"number":41,"president":"George H. W. Bush","birth_year":1924,"death_year":null,"took_office":"1989-01-20","left_office":"1993-01-20","party":"Republican"},
+  {"number":41,"president":"George H. W. Bush","birth_year":1924,"death_year":2018,"took_office":"1989-01-20","left_office":"1993-01-20","party":"Republican"},
   {"number":42,"president":"Bill Clinton","birth_year":1946,"death_year":null,"took_office":"1993-01-20","left_office":"2001-01-20","party":"Democratic"},
   {"number":43,"president":"George W. Bush","birth_year":1946,"death_year":null,"took_office":"2001-01-20","left_office":"2009-01-20","party":"Republican"},
   {"number":44,"president":"Barack Obama","birth_year":1961,"death_year":null,"took_office":"2009-01-20","left_office":"2017-01-20","party":"Democratic"},
